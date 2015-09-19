@@ -1,0 +1,11 @@
+E:\examples\NotifyMe\NotifyMe\bin\Debug\NotifyMe.exe
+E:\examples\NotifyMe\NotifyMe\bin\Debug\NotifyMe.pdb
+E:\examples\NotifyMe\NotifyMe\obj\x86\Debug\NotifyMe.Dashboard.resources
+E:\examples\NotifyMe\NotifyMe\obj\x86\Debug\NotifyMe.Properties.Resources.resources
+E:\examples\NotifyMe\NotifyMe\obj\x86\Debug\NotifyMe.csproj.GenerateResource.Cache
+E:\examples\NotifyMe\NotifyMe\obj\x86\Debug\NotifyMe.exe
+E:\examples\NotifyMe\NotifyMe\obj\x86\Debug\NotifyMe.pdb
+E:\examples\NotifyMe\NotifyMe\bin\Debug\CsvHelper.dll
+E:\examples\NotifyMe\NotifyMe\bin\Debug\CsvHelper.pdb
+E:\examples\NotifyMe\NotifyMe\bin\Debug\CsvHelper.xml
+E:\examples\NotifyMe\NotifyMe\obj\x86\Debug\NotifyMe.csprojResolveAssemblyReference.cache
